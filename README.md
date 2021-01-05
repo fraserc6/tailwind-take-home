@@ -1,4 +1,6 @@
-My attempt at the take home project cloned from [Adam Wathan's](https://github.com/adamwathan/tailwind-take-home-project) GitHub. 
+## What is it? 
+
+My attempt at the take home project cloned from [Adam Wathan's](https://github.com/adamwathan/tailwind-take-home-project) Github. 
 This was really fun to put together and a great way to apply Tailwind to a semi-real scenario. 
 
 First, run the development server:
@@ -8,6 +10,8 @@ npm run dev
 # or
 yarn dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
 
